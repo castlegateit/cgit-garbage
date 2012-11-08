@@ -1,4 +1,5 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
 /**
  * Name: CGIT Garbage Collection
  *
@@ -25,7 +26,6 @@
  * Released: 08/11/2012
  * Requirements: PHP5 or above and Codeigniter 2.0+
  */
-
 
 /**
  * Probability of garbage collection. Integer from 0 (never) to 100 (always)
