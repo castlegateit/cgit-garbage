@@ -40,7 +40,7 @@ class Cgit_garbage {
      */
     public function __construct()
     {
-        $this->config->load('garbage_collection');
+        $this->config->load('cgit_garbage');
     }
 
     // --------------------------------------------------------------------

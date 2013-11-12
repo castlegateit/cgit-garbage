@@ -40,7 +40,7 @@ $config['garbage_lifespan'] = 60 * 60; // 1 hour
 /**
  * Number of seconds before garbage is ready for collection
  */
-$config['garbage_path'] = '/home/visage_technology_subsite/tmp';
+$config['garbage_path'] = '../tmp';
 
 /* End of file cgit_garbage.php */
 /* Location: ./application/config/cgit_garbage.php */
